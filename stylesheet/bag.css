@@ -1,0 +1,79 @@
+main {
+    background-color: black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+main h2 {
+    color: rgb(68, 214, 44);
+    font-weight: 400;
+    font-size: 3rem;
+}
+
+.container {
+    width: 80%;
+    margin: 0 10%;
+}
+
+.container p {
+    font-weight: 300;
+    font-size: 2rem;
+}
+
+.bag1text {
+    text-align: center;
+    padding: 3rem 0rem;
+    background-color: rgb(68, 214, 44);
+    color: black;
+}
+
+.bag1text h2 {
+    color: black
+}
+
+.bag2 {
+    height: 100vh;
+    background-image: url(/images/lifestyle/bag/bag1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bag2text {
+    position: relative;
+    text-align: left;
+    width: 45%;
+    top: 20rem;
+    padding: 2rem;
+    margin-left: 1rem;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-left: 1px solid rgb(68, 214, 44);
+}
+
+.bag3 {
+    height: 100vh;
+    background-image: url(/images/lifestyle/bag/bag2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bag3text {
+    position: relative;
+    text-align: right;
+    width: 45%;
+    top: 20rem;
+    left: 61rem;
+    padding: 2rem;
+    margin-left: 1rem;
+    background-color: rgba(0, 0, 0, 0.4);
+    border-right: 1px solid rgb(68, 214, 44);
+}
+
+.price p {
+    margin: 0%;
+    text-align: center;
+    padding: 3rem 0;
+}
+
+.price :hover {
+    background-color: rgb(68, 214, 44);
+    color: black;
+}

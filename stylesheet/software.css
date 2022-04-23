@@ -1,0 +1,129 @@
+main {
+    background-color: black
+}
+
+main h3 {
+    color: rgb(68, 214, 44);
+    margin-bottom: 1rem;
+    font-size: 3rem;
+    font-weight: 300;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    top: 9em;
+}
+
+main p {
+    top: 2rem;
+    color: rgb(191, 197, 191);
+    font-size: 2rem;
+    font-weight: 100;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+main a {
+    color: rgb(251, 252, 250);
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: 100;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.synapse_3 img {
+    width: 30rem;
+    height: 6.6rem;
+    padding: 0%;
+}
+
+.button {
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    background-color: rgb(68, 214, 44);
+    margin: 1rem 0;
+    cursor: pointer;
+}
+
+.synapse_3 div a {
+    font-size: 2rem;
+    color: black;
+    font-weight: bold;
+}
+
+section div {
+    height: 90vh;
+}
+
+.synapse_3 {
+    height: 40vh;
+}
+
+.smalltext {
+    font-size: 1rem;
+}
+
+.synapse_3 div {
+    top: 2rem;
+    text-align: center;
+    padding-top: 2rem;
+    background-color: rgb(39, 39, 39);
+    background-size: cover;
+}
+
+.synapse_3 div p {
+    margin: 1rem 0;
+}
+
+.advanced_macro_capabilities {
+    text-align: center;
+    padding-top: 1rem;
+    background-image: url(../images/services/synapsePic1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.advanced_macro_capabilities div {
+    position: relative;
+    top: 1.5rem;
+}
+
+.razer_hypershift {
+    top: 2rem;
+    text-align: center;
+    padding-top: 2rem;
+    background-image: url(../images/services/synapsePic2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.razer_hypershift div {
+    position: relative;
+    top: 4rem;
+}
+
+.hybrid_on-board_and_cloud_storage {
+    top: 2rem;
+    text-align: center;
+    padding-top: 2rem;
+    background-image: url(../images/services/synapsePic3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hybrid_on-board_and_cloud_storage div {
+    position: relative;
+    top: 3rem;
+}
+
+.container {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 3rem;
+}
+
+.promotion a {
+    font-size: 1.25rem;
+    font-weight: 500;
+}
